@@ -24,3 +24,5 @@ rmempty -d someNestedDirs other/NestedDirs
 
 ##Future
 - ignore directories
+- tests
+- add git repo to package.json
