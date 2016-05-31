@@ -1,0 +1,17 @@
+{
+  "name": "rmempty",
+  "version": "1.0.0",
+  "description": "remove empty directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "bin": {
+    "rmempty": "./index.js"
+  },
+  "author": "Charles T Wall III",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.0"
+  }
+}
